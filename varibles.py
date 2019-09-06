@@ -13,7 +13,7 @@ t.dis()
 class ObjectLocation:
     def display(self):
         pass
-
+        pass
 ob1=ObjectLocation()
 ob2=ObjectLocation()
 ob3=ob1
